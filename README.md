@@ -1,1 +1,3 @@
-# prototipo-v1
+# Proyecto STANDING
+
+Ortésis y prótesis
